@@ -4,7 +4,7 @@ import static robocode.util.Utils.normalRelativeAngleDegrees;
 import java.awt.Color;
 import robocode.util.*;
 
-// API help : https://robocode.sourceforge.io/docs/robocode/robocode/Robot.html
+// API help : https://robocode.sourceforge.io/docs/robocode/robocode/Robot.htmlj
 
 /**
  * AndreEspanhol - a robot by (Andre p. Espanhol)
